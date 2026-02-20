@@ -1,6 +1,6 @@
-# Audiobook Maker Support
+# Storify Support
 
-Welcome to the official support page for **Audiobook Maker** – your go-to macOS application for creating custom audiobooks with ease. This guide will help you get started, troubleshoot common issues, and learn more about the features of the app.
+Welcome to the official support page for **Storify** – your go-to macOS application for creating custom audiobooks with ease. This guide will help you get started, troubleshoot common issues, and learn more about the features of the app.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to the official support page for **Audiobook Maker** – your go-to macO
 - [Features](#features)
 - [System Requirements](#system-requirements)
 - [Getting Started](#getting-started)
-- [Using Audiobook Maker](#using-audiobook-maker)
+- [Using Storify](#using-audiobook-maker)
   - [Adding Files](#adding-files)
   - [Editing Metadata & Selecting a Cover](#editing-metadata--selecting-a-cover)
   - [Exporting Your Audiobook](#exporting-your-audiobook)
@@ -24,7 +24,7 @@ Welcome to the official support page for **Audiobook Maker** – your go-to macO
 
 ## Overview
 
-**Audiobook Maker** is a macOS application that allows you to seamlessly convert your MP3 files into professionally formatted audiobooks with chapter metadata. With a simple drag & drop interface and built-in playback controls, you can create and preview your audiobook before export.
+**Storify** is a macOS application that allows you to seamlessly convert your MP3 files into professionally formatted audiobooks with chapter metadata. With a simple drag & drop interface and built-in playback controls, you can create and preview your audiobook before export.
 
 ---
 
@@ -52,14 +52,14 @@ Welcome to the official support page for **Audiobook Maker** – your go-to macO
 ## Getting Started
 
 1. **Download and Install**  
-   Visit the App Store and download Audiobook Maker. Follow the on-screen instructions to install the application.
+   Visit the App Store and download Storify. Follow the on-screen instructions to install the application.
 
 2. **Launch the App**  
-   Open Audiobook Maker from your Applications folder.
+   Open Storify from your Applications folder.
 
 ---
 
-## Using Audiobook Maker
+## Using Storify
 
 ### Adding Files
 
@@ -109,14 +109,14 @@ Welcome to the official support page for **Audiobook Maker** – your go-to macO
 
 ## Frequently Asked Questions (FAQ)
 
-### Q: What file formats does Audiobook Maker support?
+### Q: What file formats does Storify support?
 **A:** The app supports MP3 files for audio and common image formats such as JPG, JPEG, PNG, GIF, BMP, TIFF, and HEIC.
 
 ### Q: Can I edit the metadata manually?
 **A:** Yes. After importing, you can manually update the title and authors as needed.
 
 ### Q: What is the output format for the audiobook?
-**A:** Audiobook Maker exports your project as an M4B file.
+**A:** Storify exports your project as an M4B file.
 
 ### Q: How do I add or change the cover image?
 **A:** Drag and drop an image onto the cover area, or select an image file when prompted.
@@ -137,7 +137,7 @@ If you need further assistance, please reach out to our support team:
 
 ## Privacy & Security
 
-Audiobook Maker is committed to protecting your privacy. The application does not collect personal data. All processing occurs locally on your Mac, and your files remain secure on your device unless you choose to share them.
+Storify is committed to protecting your privacy. The application does not collect personal data. All processing occurs locally on your Mac, and your files remain secure on your device unless you choose to share them.
 
 ---
 
@@ -150,4 +150,4 @@ For the latest updates and release notes, please visit our [Release Notes](https
 
 ---
 
-*Thank you for choosing Audiobook Maker. We value your feedback and are dedicated to enhancing your audiobook creation experience.*
+*Thank you for choosing Storify. We value your feedback and are dedicated to enhancing your audiobook creation experience.*
