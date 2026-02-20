@@ -1,4 +1,4 @@
-# Privacy Policy for Audiobook Maker
+# Privacy Policy for Storify
 
 **Effective Date:** January 2025  
 **Last Updated:** January 2025
@@ -7,7 +7,7 @@
 
 ## 1. Introduction
 
-Audiobook Maker ("the App", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our macOS application. By using the App, you agree to the terms outlined in this policy.
+Storify ("the App", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our macOS application. By using the App, you agree to the terms outlined in this policy.
 
 ---
 
@@ -22,7 +22,7 @@ Audiobook Maker ("the App", "we", "us", or "our") is committed to protecting you
 
 ### Subscription and Purchase Data
 - **Apple In-App Purchases:**  
-  When you subscribe to Audiobook Maker Pro, your purchase is processed entirely by Apple through the App Store. We do not collect, store, or have access to your payment information (credit card numbers, billing address, etc.). Apple handles all payment processing in accordance with their [Privacy Policy](https://www.apple.com/legal/privacy/).
+  When you subscribe to Storify Pro, your purchase is processed entirely by Apple through the App Store. We do not collect, store, or have access to your payment information (credit card numbers, billing address, etc.). Apple handles all payment processing in accordance with their [Privacy Policy](https://www.apple.com/legal/privacy/).
 
 - **Subscription Status:**  
   We receive confirmation of your subscription status (active/expired) from Apple to provide you with access to premium features. This does not include any personal financial information.
@@ -74,7 +74,7 @@ All operations occur locally on your device to enable the functionality of the A
 ## 5. Subscriptions and Payments
 
 ### Subscription Options
-Audiobook Maker offers the following subscription options:
+Storify offers the following subscription options:
 
 - **Monthly Subscription:** $2.99/month
 - **Annual Subscription:** $24.99/year (approximately 30% savings)
@@ -100,13 +100,13 @@ Refund requests are handled by Apple according to their refund policy. To reques
 - **Usage Data:** You can reset your local usage data by removing the App and its associated Keychain entries.
 - **Subscription:** You can cancel your subscription at any time through Apple's subscription management.
 
-Since Audiobook Maker does not collect personal data on external servers, there is no personal data stored by us to access, modify, or delete.
+Since Storify does not collect personal data on external servers, there is no personal data stored by us to access, modify, or delete.
 
 ---
 
 ## 7. Children's Privacy
 
-Audiobook Maker is not directed at children under the age of 13. We do not knowingly collect any information from children. The App's subscription features require an Apple ID, which has its own age requirements.
+Storify is not directed at children under the age of 13. We do not knowingly collect any information from children. The App's subscription features require an Apple ID, which has its own age requirements.
 
 ---
 
@@ -145,10 +145,10 @@ If you have any questions or concerns regarding this Privacy Policy or your subs
 
 ## 12. Terms of Use
 
-Use of Audiobook Maker is also governed by:
+Use of Storify is also governed by:
 - [Apple's Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 - [Apple's Terms of Service](https://www.apple.com/legal/internet-services/terms/site.html)
 
 ---
 
-*Thank you for choosing Audiobook Maker. We are committed to ensuring your privacy and the security of your data.*
+*Thank you for choosing Storify. We are committed to ensuring your privacy and the security of your data.*
